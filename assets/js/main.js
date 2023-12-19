@@ -280,8 +280,11 @@
         margin:10,
         merge:true,
         responsive:{
+            0:{
+                items:1.2
+            },
             678:{
-                mergeFit:true
+                items:2
             },
             1000:{
                 mergeFit:false
