@@ -281,8 +281,13 @@
         merge:true,
         responsive:{
             0:{
-                items:1.2
+                items:1
             },
+            374:{
+                items:1
+                
+            },
+
             678:{
                 items:2
             },

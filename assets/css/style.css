@@ -2495,6 +2495,7 @@ h3.login-title {
   font-size: 16px;
   margin: 35px 10px 10px;
   max-width: 310px;
+  margin:10px;
   min-width: 250px;
   position: relative;
   text-align: center;
@@ -2557,6 +2558,7 @@ h3.login-title {
     display: flex;
     flex-wrap: wrap;
     flex-flow: row;
+    padding: 5px;
     justify-content: center;
 }
 /* card section */
